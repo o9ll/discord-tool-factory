@@ -1,3 +1,8 @@
+> [!NOTE]
+> factory v3 below is patched now, unfortunately, because accounts now need 1 kill to chat. factory v4 may come out in the future, but it'll need a complete rework from what we have now.
+
+<hr><br><br><br><br>
+
 <div align='center'>
     <h1>Factory 3</h1>
     <h3>generate thousands of shell shockers accounts in minutes</h3>
